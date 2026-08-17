@@ -1,0 +1,23 @@
+{
+  "raw_rows": 30000,
+  "raw_columns": 25,
+  "duplicates_removed": 35,
+  "missing_values": 0,
+  "clean_rows": 29965,
+  "clean_columns": 24,
+  "class_counts": {
+    "No Default (0)": 23335,
+    "Default (1)": 6630
+  },
+  "class_pct": {
+    "No Default (0)": 77.87,
+    "Default (1)": 22.13
+  },
+  "top5_correlated_with_target": {
+    "PAY_0": 0.325,
+    "PAY_2": 0.2637,
+    "PAY_3": 0.2352,
+    "PAY_4": 0.2166,
+    "PAY_5": 0.2041
+  }
+}
